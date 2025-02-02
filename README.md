@@ -14,6 +14,6 @@ MGAuth An Easy Security Auth System By PHP.
 7.Enjoy your project which is protected under MGAuth.  
 ### FaQ:  
 If you leaked your key,you can recreate it by requesting appid.php with argument *appid* and *rkey* to get a  new key.  
-You need save your rkey safety,and when you leaked it,you need baned your appid and recreate one.  
+You need save your rkey safety,and when you leaked it,you need banned your appid and recreate one.  
 The file "appid.php" need request by your domain.  
 If you have any questions,please seed issues to me.  
