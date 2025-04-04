@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);//Debug off Switch 1 to On
 
-//  MGAuth Verion 1.0
+//  MGAuth Version 1.0
 //  Please import base.sql before use
 //  Need:
 //  PHP Version 7.4+ MySQL Version 4.6+
